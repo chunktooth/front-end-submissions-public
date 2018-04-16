@@ -12,11 +12,14 @@
 N/A
 
 #### Next Steps?
-- Fetching new API for Chinese Horoscope or Feng Shui
-- A redirect router that takes user back to home page
-- Implementing Firebase
-- Fine-tuning UI
-
+If (Achieve total responsiveness) {
+  Implement Firebase
+  Implement Moonphase feature with router
+} else {
+  Utilize implicit returns,
+  Clean up log, states and skips,
+  Finetune CSS & responsiveness
+}
 
 #### What are your concerns (if any)
 - Content is light
