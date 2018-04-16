@@ -3,8 +3,10 @@
 #### Check In: 4
 
 #### Progress made?
-- Keep quotes and display them in a jar
+- Keep wisdoms and display them in a jar
+- Can delete wisdoms from jar
 - Animating cookies
+- Testing almost complete
 
 #### What deliverables still need to be completed from your last checkin?
 N/A
