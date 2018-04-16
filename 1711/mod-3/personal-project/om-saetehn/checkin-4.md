@@ -11,7 +11,7 @@
 #### What deliverables still need to be completed from your last checkin?
 N/A
 
-#### Next Steps?
+#### Final deliverables
 If (Achieve total responsiveness) {
   Implement Firebase
   Implement Moonphase feature with router
