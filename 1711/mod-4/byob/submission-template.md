@@ -7,10 +7,10 @@
 # Basics
 
 #### Link to the GitHub Repository for the Project
-[BYOB]()
+[BYOB](https://github.com/mttwlkr/byob)
 
 #### Link to the Deployed Application
-[Heroku]()
+[Heroku](https://byob-surfmap.herokuapp.com/)
 
 
 ## Completion
@@ -18,45 +18,45 @@
 #### Were you able to complete the base functionality?
 
 * Documented all available endpoints and their usage in the README?
-(Yes/No)
+(Yes)
 
 * Seeded a database with at least 2 tables and 1 relationship?
-(Yes/No)
+(Yes)
 
 * Had at least 10 endpoints that returned responses with appropriate status codes?
-(Yes/No)
+(Yes)
 
 * Secured at least 4 endpoints with JWTs?
-(Yes/No)
+(Yes)
 
 * Enforced a linter and wrote code that conformed to it?
-(Yes/No)
+(Yes)
 
 * Wrote tests for both happy and sad paths for each endpoint?
-(Yes/No)
+(Yes)
 
 * Setup automatic deployments with TravisCI to a production app on Heroku?
-(Yes/No)
+(Yes)
 
 # Code Quality
 
 #### Link to a specific block of your code on GitHub that you are proud of
-[happy code]()
+[happy code](https://github.com/mttwlkr/byob/blob/b9e7ad4cbf0ad28d8445c139f1861cae640c8319/server.js#L20)
 
-* Why were you proud of this piece of code?
+First time authorization
 
 #### Link to a specific block of your code on GitHub that you feel not great about
-[sad code]()
+[sad code](N/A)
 
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
 #### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-[test suite]()
+[test suite](https://user-images.githubusercontent.com/30199861/40253360-aa8c7338-5a9c-11e8-8416-c83c4943e599.png)
 
 #### Attach a screenshot or paste the output from your terminal of the result of your linter running.
 
-[linter output]()
+[linter output](https://user-images.githubusercontent.com/30199861/40253358-aa6fd8fe-5a9c-11e8-9cde-da15da7c2c62.png)
 
 #### Attach a screenshot of your TravisCI build passing
 
